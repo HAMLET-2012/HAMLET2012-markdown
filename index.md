@@ -21,3 +21,12 @@
 
 ![Image of Yaktocat](https://bracketfights.com/images/hero/2019/best-gravity-falls-character-1370/1579740399.jpg
 )
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
